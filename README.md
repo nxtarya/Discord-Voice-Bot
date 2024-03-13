@@ -18,8 +18,8 @@ This is a simple Discord bot written in JavaScript using the Discord.js library 
 ## Setup
 
 1. Clone this repository to your local machine.
-2. Install dependencies using `npm install`.
-3. Replace `'CLIENT_ID'` and `'BOT_TOKEN'` placeholders in `index.js` with your bot's client ID and token respectively.
+2. Install dependencies using `npm install` and `npm install discord.js@13`.
+3. Replace `'CLIENT_ID'` and `'BOT_TOKEN'` placeholders in `bot.js` with your bot's client ID and token respectively.
 4. Ensure that the bot has necessary permissions to join and disconnect from voice channels.
 5. Create a role named "Voice-Permission" and give it to users who should be able to use the `/join` and `/dc` commands.
 6. Run the bot using `node bot.js`.
