@@ -1,7 +1,6 @@
 # Discord Voice Bot
 
-This is a simple Discord bot written in JavaScript using the Discord.js library to perform voice-related tasks. The bot allows users to join a voice channel, disconnect from a voice channel, and get help information.
-
+This is a simple Discord bot written in JavaScript using the Discord.js library to perform voice-related tasks. The bot joins any voice channel that you want using it's ID.
 ## Features
 
 - **Join Voice Channel**: Users can use the `/join` command followed by the ID of the voice channel they want to join. This command enables the bot to join the specified voice channel.
